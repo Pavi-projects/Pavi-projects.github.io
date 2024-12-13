@@ -13,7 +13,7 @@ body{
         to bottom, transparent 0 150px, #0001 150px 151px
     ),
     linear-gradient(to right, #CDCDCDcc, #CDCDCDcc),
-    url(images/bg.jpg);
+    url(bg.jpg);
 }
 *{
     padding: 0;
